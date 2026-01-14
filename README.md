@@ -6,7 +6,7 @@ A high-performance, fault-tolerant elevator management solution built with React
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/uriyahav/arbox-elevator-fleet-manager.git)
 
 # Install dependencies
 npm install
